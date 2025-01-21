@@ -1,94 +1,43 @@
-Vehicle-Builder
 
-A TypeScript command-line application for creating vehicles, including cars, motorbikes, and trucks, with dynamic configuration options.
+#  Vehicle-Builder
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-License
-
-This project is licensed under the MIT license.
-
-Description
-
+## Description
 Vehicle-Builder is a versatile command-line tool that allows users to build and manage vehicles with customizable specifications. Initially designed for cars, it has been enhanced to include motorbikes and trucks, providing a comprehensive vehicle creation experience.
 
-Table of Contents
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-Installation
+## Installation
+```
+1. Clone the repository. 2. Run npm install to install the necessary dependencies.
+```
 
-Usage
+## Usage
+Run node index.js from the command line. The application will prompt you for what you want to do.
 
-License
-
-Contributing
-
-Tests
-
-Questions
-
-Installation
-
-Clone the repository:
-
-git clone https://github.com/<your-username>/Vehicle-Builder.git
-
-Navigate to the project directory:
-
-cd Vehicle-Builder
-
-Install dependencies:
-
-npm install
-
-Usage
-
-Run the application using Node.js:
-
-node index.js
-
-Follow the prompts to select a vehicle type (car, motorbike, or truck), and customize its features as needed. The application will generate a detailed summary of your created vehicle.
-
-License
-
+## License
 This project is licensed under the MIT license.
 
-Contributing
+## Contributing
+Clone the repository, make changes in a separate branch, and submit a pull request. Ensure your code is well-documented and passes all tests before submitting.
 
-Fork the repository.
+## Tests
+```
+Currently, there are no automated tests for this project. However, you can manually test the README generation by running node index.js and verifying the generated file.
+```
 
-Create a new branch for your feature or fix:
+## Questions
+For any questions, please contact me:
 
-git checkout -b feature-name
+- GitHub: [Mahdi070707](https://github.com/Mahdi070707)
+- Email: [mahdighaleb196@gmail.com](mailto:mahdighaleb196@gmail.com)
 
-Make your changes and ensure they are well-documented.
+  ##Video
 
-Run the application to test your changes.
-
-Commit your changes:
-
-git commit -m "Description of changes"
-
-Push to your branch:
-
-git push origin feature-name
-
-Submit a pull request for review.
-
-Tests
-
-Currently, there are no automated tests for this project. To manually test the application, run:
-
-node index.js
-
-Verify that vehicles are created correctly based on the user input and that all features function as expected.
-
-Questions
-
-For any questions, please contact:
-
-GitHub: Mahdi070707
-
-Email: mahdighaleb196@gmail.com
-
-Video Demonstration
-
-Watch the video demonstration here
-
+  link
